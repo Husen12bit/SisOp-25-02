@@ -19,7 +19,7 @@ D3-LA IT-A
 
     >**ANSWER :**
     >
-    1.	Resource Management
+    >1.	Resource Management
     >2.	Abstraction and Simplification
     >3.	User Interface and System Control
 
@@ -50,16 +50,16 @@ D3-LA IT-A
 4. 
     >**QUESTION :**
     >
-        >Keeping in mind the various definitions of operating system, consider whether the operating system should include applications such as web browsers and mail programs. Argue both that it should and that it should not, and support your answers!
+    >Keeping in mind the various definitions of operating system, consider whether the operating system should include applications such as web browsers and mail programs. Argue both that it should and that it should not, and support your answers!
 
     >**ANSWER :** 
     >
-        >on the one hand (the pros) if an operating system is made into an application or even a Gmail link is:
-            >>1.	cyber security is more guaranteed
-            >>2.	Functions and objectives are focused so that it makes it easier for users/admins
-            >>3.	so that it can improve user experience
-        >
-        >But there are several disadvantages such as:
+    >on the one hand (the pros) if an operating system is made into an application or even a Gmail link is:
+    >>1.	cyber security is more guaranteed
+    >>2.	Functions and objectives are focused so that it makes it easier for users/admins
+    >>3.	so that it can improve user experience
+    >
+    >But there are several disadvantages such as:
             >>1.	More memory and system resource usage
             >>2.	each publication from a different company will produce different features and look views which can actually confuse users
 
