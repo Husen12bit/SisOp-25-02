@@ -19,31 +19,31 @@ D3-LA IT-A
 
     >**ANSWER :**
     >
-        >1.	Resource Management
-        >2.	Abstraction and Simplification
-        >3.	User Interface and System Control
+    >1.	Resource Management
+    >2.	Abstraction and Simplification
+    >3.	User Interface and System Control
 
 ---
 
 2.	
     >**QUESTION :**
     >
-        >We have stressed the need for an operating system to make efficient use of the computing hardware. When is it appropriate for the operating system to forsake this principle and to "waste" resources? Why is such a system not really wasteful?
+    >We have stressed the need for an operating system to make efficient use of the computing hardware. When is it appropriate for the operating system to forsake this principle and to "waste" resources? Why is such a system not really wasteful?
 
     >**ANSWER :** 
     >
-        >Because there are things that are more/must be prioritized such as user I/O. Data security and periodic checking of virus attacks, needs when making videos/images/animations/effects or just to enhance user experience satisfaction that must be done in order to achieve ease, security, user efficiency according to the conditions that apply at that time.
+    >Because there are things that are more/must be prioritized such as user I/O. Data security and periodic checking of virus attacks, needs when making videos/images/animations/effects or just to enhance user experience satisfaction that must be done in order to achieve ease, security, user efficiency according to the conditions that apply at that time.
 
 ---
 
 3. 
     >**QUESTION :**
     >
-        >What is the main difficulty that a programmer must overcome in writing an operating system for a real-time environment?
+    >What is the main difficulty that a programmer must overcome in writing an operating system for a real-time environment?
 
     >**ANSWER** :
     > 
-        >How many are there and I will take the case of the control tower at the airport where programmers are required to be able to create a system that can act quickly, responsively, without delay even when given a heavy and non-stop workload.
+    >How many are there and I will take the case of the control tower at the airport where programmers are required to be able to create a system that can act quickly, responsively, without delay even when given a heavy and non-stop workload.
 
 ---
 
