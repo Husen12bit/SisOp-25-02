@@ -15,7 +15,7 @@ D3-LA IT-A
 1. 
     >**QUESTION :**
     >
-        >What are the three main purpose of an operating system?
+    >What are the three main purpose of an operating system?
 
     >**ANSWER :**
     >
