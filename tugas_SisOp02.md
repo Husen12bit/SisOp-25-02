@@ -19,7 +19,7 @@ D3-LA IT-A
 
     >**ANSWER :**
     >
-    >1.	Resource Management
+    1.	Resource Management
     >2.	Abstraction and Simplification
     >3.	User Interface and System Control
 
